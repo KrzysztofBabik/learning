@@ -1,0 +1,7 @@
+C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\bin\Debug\ModifierExample.exe.config
+C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\bin\Debug\ModifierExample.exe
+C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\bin\Debug\ModifierExample.pdb
+C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\obj\Debug\Stopwatch.csprojAssemblyReference.cache
+C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\obj\Debug\ModifierExample.exe
+C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\obj\Debug\ModifierExample.pdb
