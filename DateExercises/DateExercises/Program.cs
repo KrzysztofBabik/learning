@@ -10,6 +10,10 @@ namespace DateExercises
     {
         static void Main(string[] args)
         {
+            var Exercise1 = new Exercise1();
+            Exercise1.CheckConsecutive();
+
+            Console.ReadKey();
         }
     }
 }

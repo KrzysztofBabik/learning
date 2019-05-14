@@ -1,0 +1,7 @@
+E:\Projects\learning\DateExercises\DateExercises\bin\Debug\DateExercises.exe.config
+E:\Projects\learning\DateExercises\DateExercises\bin\Debug\DateExercises.exe
+E:\Projects\learning\DateExercises\DateExercises\bin\Debug\DateExercises.pdb
+E:\Projects\learning\DateExercises\DateExercises\obj\Debug\DateExercises.csprojAssemblyReference.cache
+E:\Projects\learning\DateExercises\DateExercises\obj\Debug\DateExercises.csproj.CoreCompileInputs.cache
+E:\Projects\learning\DateExercises\DateExercises\obj\Debug\DateExercises.exe
+E:\Projects\learning\DateExercises\DateExercises\obj\Debug\DateExercises.pdb
