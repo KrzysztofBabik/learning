@@ -11,16 +11,11 @@ namespace DateExercises
     {
         static void Main(string[] args)
         {
-            //var Exercise1 = new Exercise1();
-            //var Exercise2 = new Exercise2();
+            var Exercise1 = new Exercise1();
+            var Exercise2 = new Exercise2();
 
-            //Exercise1.CheckConsecutive();
-            //Exercise2.CheckDuplicate();
-
-            DataTable dt = new DataTable();
-            var v = dt.Compute("3 + 4", "");
-            Console.WriteLine(v);
-            Console.ReadKey();
+            Exercise1.CheckConsecutive();
+            Exercise2.CheckDuplicate();
         }
     }
 }
