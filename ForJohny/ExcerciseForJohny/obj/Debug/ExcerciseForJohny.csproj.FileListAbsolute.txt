@@ -1,0 +1,7 @@
+C:\Users\Uzytkownik\source\repos\ExcerciseForJohny\ExcerciseForJohny\bin\Debug\ExcerciseForJohny.exe.config
+C:\Users\Uzytkownik\source\repos\ExcerciseForJohny\ExcerciseForJohny\bin\Debug\ExcerciseForJohny.exe
+C:\Users\Uzytkownik\source\repos\ExcerciseForJohny\ExcerciseForJohny\bin\Debug\ExcerciseForJohny.pdb
+C:\Users\Uzytkownik\source\repos\ExcerciseForJohny\ExcerciseForJohny\obj\Debug\ExcerciseForJohny.csprojAssemblyReference.cache
+C:\Users\Uzytkownik\source\repos\ExcerciseForJohny\ExcerciseForJohny\obj\Debug\ExcerciseForJohny.csproj.CoreCompileInputs.cache
+C:\Users\Uzytkownik\source\repos\ExcerciseForJohny\ExcerciseForJohny\obj\Debug\ExcerciseForJohny.exe
+C:\Users\Uzytkownik\source\repos\ExcerciseForJohny\ExcerciseForJohny\obj\Debug\ExcerciseForJohny.pdb
