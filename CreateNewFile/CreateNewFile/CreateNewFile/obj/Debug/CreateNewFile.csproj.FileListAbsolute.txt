@@ -1,0 +1,7 @@
+E:\Projects\learning\CreateNewFile\CreateNewFile\CreateNewFile\bin\Debug\CreateNewFile.exe.config
+E:\Projects\learning\CreateNewFile\CreateNewFile\CreateNewFile\bin\Debug\CreateNewFile.exe
+E:\Projects\learning\CreateNewFile\CreateNewFile\CreateNewFile\bin\Debug\CreateNewFile.pdb
+E:\Projects\learning\CreateNewFile\CreateNewFile\CreateNewFile\obj\Debug\CreateNewFile.csprojAssemblyReference.cache
+E:\Projects\learning\CreateNewFile\CreateNewFile\CreateNewFile\obj\Debug\CreateNewFile.csproj.CoreCompileInputs.cache
+E:\Projects\learning\CreateNewFile\CreateNewFile\CreateNewFile\obj\Debug\CreateNewFile.exe
+E:\Projects\learning\CreateNewFile\CreateNewFile\CreateNewFile\obj\Debug\CreateNewFile.pdb

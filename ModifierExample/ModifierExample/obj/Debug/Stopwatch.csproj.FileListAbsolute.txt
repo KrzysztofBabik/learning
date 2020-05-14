@@ -5,3 +5,10 @@ C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\obj\Debug\Stopw
 C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
 C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\obj\Debug\ModifierExample.exe
 C:\Users\Uzytkownik\source\repos\ModifierExample\ModifierExample\obj\Debug\ModifierExample.pdb
+E:\Projects\learning\ModifierExample\ModifierExample\bin\Debug\ModifierExample.exe.config
+E:\Projects\learning\ModifierExample\ModifierExample\bin\Debug\ModifierExample.exe
+E:\Projects\learning\ModifierExample\ModifierExample\bin\Debug\ModifierExample.pdb
+E:\Projects\learning\ModifierExample\ModifierExample\obj\Debug\Stopwatch.csprojAssemblyReference.cache
+E:\Projects\learning\ModifierExample\ModifierExample\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+E:\Projects\learning\ModifierExample\ModifierExample\obj\Debug\ModifierExample.exe
+E:\Projects\learning\ModifierExample\ModifierExample\obj\Debug\ModifierExample.pdb
