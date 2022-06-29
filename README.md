@@ -6,3 +6,4 @@ Learning C#
 3. Exercises about comparing numbers.
 4. Exercise "ForJohny" is about date range.
 5. HotelReservations app using WPF and database
+6. SnakeGame and SnakeGameDualMode are simple games which using WPF
