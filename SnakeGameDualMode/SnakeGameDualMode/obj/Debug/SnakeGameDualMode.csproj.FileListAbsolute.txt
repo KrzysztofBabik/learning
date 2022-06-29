@@ -1,0 +1,10 @@
+E:\Projects\SnakeGameDualMode\SnakeGameDualMode\bin\Debug\SnakeGameDualMode.exe.config
+E:\Projects\SnakeGameDualMode\SnakeGameDualMode\bin\Debug\SnakeGameDualMode.exe
+E:\Projects\SnakeGameDualMode\SnakeGameDualMode\bin\Debug\SnakeGameDualMode.pdb
+E:\Projects\SnakeGameDualMode\SnakeGameDualMode\obj\Debug\SnakeGameDualMode.csprojAssemblyReference.cache
+E:\Projects\SnakeGameDualMode\SnakeGameDualMode\obj\Debug\SnakeGameDualMode.Properties.Resources.resources
+E:\Projects\SnakeGameDualMode\SnakeGameDualMode\obj\Debug\SnakeGameDualMode.csproj.GenerateResource.cache
+E:\Projects\SnakeGameDualMode\SnakeGameDualMode\obj\Debug\SnakeGameDualMode.csproj.CoreCompileInputs.cache
+E:\Projects\SnakeGameDualMode\SnakeGameDualMode\obj\Debug\SnakeGameDualMode.exe
+E:\Projects\SnakeGameDualMode\SnakeGameDualMode\obj\Debug\SnakeGameDualMode.pdb
+E:\Projects\SnakeGameDualMode\SnakeGameDualMode\obj\Debug\SnakeGame.Form1.resources
