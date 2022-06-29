@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591145344 source:e:\projects\learning\cprojects\web_client\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+

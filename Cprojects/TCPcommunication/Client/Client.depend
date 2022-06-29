@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589907407 source:e:\projects\c\tcpcommunication\client\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1589908060 source:e:\projects\learning\cprojects\tcpcommunication\client\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
